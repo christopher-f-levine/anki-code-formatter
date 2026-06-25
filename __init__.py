@@ -1,0 +1,1 @@
+print("Anki Code Formatter loaded.")
